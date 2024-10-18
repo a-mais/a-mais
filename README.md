@@ -1,7 +1,7 @@
 # Bem vindo! 💫
 ## Me chamo Paulo.
-- 🤖 Motion designer aspirante a desenvolvedor backend
-- 🔭 Graduando em Sistemas de Informação - (4/8) - IFMA MTC
+- 🤖 Backend
+- 🔭 Graduando em Sistemas de Informação - (5/8) - Instituto Federal de Ciência, Educação e Tecnologia do Maranhão - CAMPUS MTC
 
  <div>
 <a href="https://www.instagram.com/another.visuals/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
