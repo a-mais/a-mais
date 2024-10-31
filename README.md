@@ -1,6 +1,6 @@
 # Bem vindo! 💫
 ## Me chamo Paulo.
-- 🤖 Backend
+- 🤖 FullStacker
 - 🔭 Graduando em Sistemas de Informação - (5/8) - Instituto Federal de Ciência, Educação e Tecnologia do Maranhão - CAMPUS MTC
 
  <div>
