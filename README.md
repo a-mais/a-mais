@@ -1,5 +1,4 @@
 # Bem vindo! 💫
-## Me chamo Paulo.
 - 🤖 FullStacker
 - 🔭 Graduando em Sistemas de Informação - (5/8) - Instituto Federal de Ciência, Educação e Tecnologia do Maranhão - CAMPUS MTC
 
