@@ -1,5 +1,5 @@
 # Bem vindo! 💫
-- 🤖 FullStacker Developer and Motion Designer
+- 🤖 FullStack Developer and Motion Designer
 - 🔭 Graduando em Sistemas de Informação - (6/8) - Instituto Federal de Ciência, Educação e Tecnologia do Maranhão - CAMPUS MTC
 
  <div>
