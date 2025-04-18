@@ -1,6 +1,6 @@
 # Bem vindo! 💫
-- 🤖 FullStacker
-- 🔭 Graduando em Sistemas de Informação - (5/8) - Instituto Federal de Ciência, Educação e Tecnologia do Maranhão - CAMPUS MTC
+- 🤖 FullStacker Developer and Motion Designer
+- 🔭 Graduando em Sistemas de Informação - (6/8) - Instituto Federal de Ciência, Educação e Tecnologia do Maranhão - CAMPUS MTC
 
  <div>
 <a href="https://www.instagram.com/another.visuals/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
