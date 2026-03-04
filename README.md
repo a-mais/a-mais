@@ -4,7 +4,7 @@
 
 >  Sobre mim
 
-🎓 Graduando em **Sistemas de Informação (7/8)** no **IFMA – Campus Monte Castelo**  
+🎓 Graduando em **Sistemas de Informação (8/8)** no **IFMA – Campus Monte Castelo**  
 💻 **FullStack Developer** & **Motion Designer**  
 😗 IA, design minimalista e soluções criativas 
 
