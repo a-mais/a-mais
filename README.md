@@ -8,8 +8,6 @@
 💻 **FullStack Developer** & **Motion Designer**  
 😗 IA, design minimalista e soluções criativas 
 
-São Luís – MA, Brasil  
-
 > </>
 
 ## Conecte-se comigo  
